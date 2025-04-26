@@ -56,4 +56,4 @@ Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 
 
 * Linkedin:
-[Meu linkedin](https://url_do_link)
+[Meu linkedin]([https://url_do_link](https://www.linkedin.com/in/renan-batista/))
