@@ -31,15 +31,15 @@ Não é necessário instalar bibliotecas ou frameworks.
 
 Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução, desde instalar e rodar o projeto.
 
-Clone este repositório:
+* Clone este repositório:
 
 git clone https://github.com/seu-usuario/Carrossel.git
 
-Navegue até a pasta do projeto:
+* Navegue até a pasta do projeto:
 
 cd Carrossel
 
-Abra o arquivo index.html em seu navegador:
+* Abra o arquivo index.html em seu navegador
 
 
 ## 🛠️ Executando os testes (caso tenha testes)
