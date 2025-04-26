@@ -1,5 +1,3 @@
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
-
 # Carrosel de Produtos
 
 Uma vitrine interativa de produtos com transições suaves, desenvolvida utilizando apenas HTML, CSS e JavaScript puro.
