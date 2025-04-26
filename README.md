@@ -50,47 +50,10 @@ Não aplicável
 
 Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-- Link para pegar as badges: https://github.com/Ileriayo/markdown-badges
-
-Ou pode separar por stacks:
-
-**Front-end:**
-* [React JS](https://react.dev/)
-* [TailwindCSS](https://tailwindcss.com/)
-
-**Back-end:**
-* [NodeJS](https://nodejs.org/).
-* [TypeScript](https://www.typescriptlang.org/) 
-* [Mongo DB](https://mongodb.com/)
-
-## 👷 Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
-
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
-* **Sujeito Programador** - *Frontend do projeto* - [@sujeitoprogramador](https://github.com/devfraga)
-
-## 📄 Licença
-
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
-
-## 💭 FAQ - Perguntas frequentes
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 💡 Expressões de gratidão
-
-* Um agradecimento publicamente.
-* Para suporte, mande um email para nome@teste.com.
-* Link para o seu linkedin [Meu linkedin](https://url_do_link)
+* Linkedin:
+[Meu linkedin](https://url_do_link)
